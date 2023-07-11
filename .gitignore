@@ -1,5 +1,4 @@
-**/*.pyc
-**/*.swp
-venv/*
-*.db
-**/local_settings.py
+# pip install einstein  
+# npm i einstein
+# npm install einstein
+# npm run einstein
